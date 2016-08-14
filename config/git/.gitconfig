@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = XXXXX
+	email = XXXXX
+[alias]
+	logg = log --pretty=format:'%C(auto)(%H) %ai %s'
